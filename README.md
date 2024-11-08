@@ -26,10 +26,10 @@ Cred în codul curat și bine structurat, chiar și atunci când este un hobby.
 Colaborez cu alți pasionați din comunitatea Metin2 pentru a învăța lucruri noi și a împărtăși idei.
 
   💻 TroubleLAB | Support și Servicii:
-Dețin TroubleLAB, unde ofer suport și servicii pentru serverele Metin2. 
+Dețin **TroubleLAB**, unde ofer suport și servicii pentru serverele Metin2. 
 Dacă ai nevoie de ajutor cu scripting, configurare, implementări personalizate sau optimizări pentru serverul tău, mă poți contacta pentru consultanță și suport contra cost.
 Nu ofer servicii gratuite!
 
-### 📫 Contact: Dacă vrei să discutăm despre programare, să colaborăm pe proiecte legate de Metin2 sau ai nevoie de support, mă găsești aici:
-Discord: troublesomesync
+📫 Contact: Dacă vrei să discutăm despre programare, să colaborăm pe proiecte legate de Metin2 sau ai nevoie de support, mă găsești aici:
+Discord: troublesomesync \n
 Server Discord: https://discord.gg/Z6J8T3CSJb
